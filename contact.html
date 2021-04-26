@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SECCION3</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        input[type=text], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+
+        input[type=submit] {
+            background-color: #4c93af;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        input[type=submit]:hover {
+            background-color: #4c93af;
+        }
+
+        .container {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <a class="logo" href="index.html"><img height="80" src="logo.png"/></a>
+</header>
+<div class="topnav">
+    <a href="index.html">Casa</a>
+    <a href="seccion1.html">Seccion1</a>
+    <a href="seccion2.html">Seccion2</a>
+    <a href="seccion3.html">Seccion3</a>
+    <a class="active" href="#">Contactarnos</a>
+</div>
+</body>
+
+<div class="container">
+    <form>
+
+        <label for="fname">Nombre</label>
+        <input type="text" id="fname" placeholder="Su nombre..">
+
+        <label for="lname">Appellido</label>
+        <input type="text" id="lname" name="lastname" placeholder="Appellido...">
+
+        <label for="country">Pais</label>
+        <select id="country" name="country">
+            <option value="australia">Espanya</option>
+            <option value="canada">Canada</option>
+            <option value="usa">France</option>
+        </select>
+
+        <label for="subject">Sujecto</label>
+        <textarea id="subject" name="subject" placeholder="Escriba algo aqui.." style="height:200px"></textarea>
+
+        <input type="submit" value="Enviar">
+
+    </form>
+</div>
+</html>
