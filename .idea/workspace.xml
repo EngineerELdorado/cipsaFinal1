@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619432032021</updated>
-      <workItem from="1619432033711" duration="5119000" />
+      <workItem from="1619432033711" duration="8819000" />
     </task>
     <servers />
   </component>
@@ -54,5 +54,21 @@
       <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.805@0.25.1440.805" timestamp="1619432181217" />
+    <state width="1419" height="95" key="GridCell.Tab.0.bottom" timestamp="1619438063824">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1419" height="95" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1619438063824" />
+    <state width="1419" height="95" key="GridCell.Tab.0.center" timestamp="1619438063823">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1419" height="95" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1619438063823" />
+    <state width="1419" height="95" key="GridCell.Tab.0.left" timestamp="1619438063822">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1419" height="95" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1619438063822" />
+    <state width="1419" height="95" key="GridCell.Tab.0.right" timestamp="1619438063824">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1419" height="95" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1619438063824" />
   </component>
 </project>
